@@ -1,0 +1,15 @@
+C:\Kurs\CSharp_OOP_cv\CSharp_OOP_cv\TrainVijacka\bin\Debug\net8.0\TrainVijacka.exe
+C:\Kurs\CSharp_OOP_cv\CSharp_OOP_cv\TrainVijacka\bin\Debug\net8.0\TrainVijacka.deps.json
+C:\Kurs\CSharp_OOP_cv\CSharp_OOP_cv\TrainVijacka\bin\Debug\net8.0\TrainVijacka.runtimeconfig.json
+C:\Kurs\CSharp_OOP_cv\CSharp_OOP_cv\TrainVijacka\bin\Debug\net8.0\TrainVijacka.dll
+C:\Kurs\CSharp_OOP_cv\CSharp_OOP_cv\TrainVijacka\bin\Debug\net8.0\TrainVijacka.pdb
+C:\Kurs\CSharp_OOP_cv\CSharp_OOP_cv\TrainVijacka\obj\Debug\net8.0\TrainVijacka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kurs\CSharp_OOP_cv\CSharp_OOP_cv\TrainVijacka\obj\Debug\net8.0\TrainVijacka.AssemblyInfoInputs.cache
+C:\Kurs\CSharp_OOP_cv\CSharp_OOP_cv\TrainVijacka\obj\Debug\net8.0\TrainVijacka.AssemblyInfo.cs
+C:\Kurs\CSharp_OOP_cv\CSharp_OOP_cv\TrainVijacka\obj\Debug\net8.0\TrainVijacka.csproj.CoreCompileInputs.cache
+C:\Kurs\CSharp_OOP_cv\CSharp_OOP_cv\TrainVijacka\obj\Debug\net8.0\TrainVijacka.sourcelink.json
+C:\Kurs\CSharp_OOP_cv\CSharp_OOP_cv\TrainVijacka\obj\Debug\net8.0\TrainVijacka.dll
+C:\Kurs\CSharp_OOP_cv\CSharp_OOP_cv\TrainVijacka\obj\Debug\net8.0\refint\TrainVijacka.dll
+C:\Kurs\CSharp_OOP_cv\CSharp_OOP_cv\TrainVijacka\obj\Debug\net8.0\TrainVijacka.pdb
+C:\Kurs\CSharp_OOP_cv\CSharp_OOP_cv\TrainVijacka\obj\Debug\net8.0\TrainVijacka.genruntimeconfig.cache
+C:\Kurs\CSharp_OOP_cv\CSharp_OOP_cv\TrainVijacka\obj\Debug\net8.0\ref\TrainVijacka.dll
