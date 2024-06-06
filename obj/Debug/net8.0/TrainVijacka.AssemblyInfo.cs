@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TrainVijacka")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b71c7a71acd0bd109589ef11ac266b047e71382")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a3114f206f181e960557dd7a5c494f22708ac6a")]
 [assembly: System.Reflection.AssemblyProductAttribute("TrainVijacka")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TrainVijacka")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
